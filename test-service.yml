@@ -1,4 +1,4 @@
-newProperty: This is DJ!!!
+newProperty: This is Changed now DJ!!!
 
 server:
   port: ${PORT:9099}
