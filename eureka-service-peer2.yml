@@ -9,7 +9,7 @@ eureka:
     hostname: peer2
   client:
     serviceUrl:
-      defaultZone: http://peer1/eureka/
+      defaultZone: http://localhost:8761/eureka
     registerWithEureka: false
     fetchRegistry: false
   server:
